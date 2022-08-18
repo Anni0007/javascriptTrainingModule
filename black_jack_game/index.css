@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://images.pexels.com/photos/580900/pexels-photo-580900.jpeg?cs=srgb&dl=pexels-matthias-cooper-580900.jpg&fm=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 80px;
+    color: goldenrod;
+}
+
+button {
+    background-color: goldenrod;
+    color:whitesmoke;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    width: 300px;
+    display:block;
+    margin: 0 auto;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+}
