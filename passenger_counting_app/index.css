@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-image: url('https://www.popsci.com/uploads/2020/06/05/3NIEQB3SFVCMNHH6MHZ42FO6PA.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+#increment_element {
+    background: #e74c3c;
+    color: #ffffff;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+#increment_element:hover {
+    background: #c0392b;
+    color: #ffffff;
+}
+
+#save-element {
+    background: #2ecc71;
+    color: #ffffff;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+#save-element:hover {
+    background: #27ae60;
+    color: #ffffff;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 50px;
+    font-style:italic;
+    color: goldenrod;
+}
