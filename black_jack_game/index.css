@@ -25,3 +25,12 @@ button {
     border-radius: 5px;
     height: 40px;
 }
+
+p {
+   color:darkslategrey;
+   font-size: xx-large;
+}
+
+#message-element {
+    font-style: italic;
+}
