@@ -5,22 +5,38 @@ body {
 
 input {
     width: 100%;
-    border-color:#5f9341;
+    border:1px solid #5f9341;
     border-radius: 2px;
     padding: 10px 5px;
 }
 
 button {
-    background-color:#5f9341;
     margin-top: 5px;
-    width: 250px;
-    color: white;
+    width: 200px;
     font-weight: bold;
     font-size: larger;
-    border: none;
     padding:10px 5px;
-    word-spacing: 10px;
+    word-spacing: 5px;
     border-radius: 5px;
+}
+
+#del-btn {
+    background-color:white;
+    color:#5f9341;
+    border:1px solid #5f9341;
+  
+}
+
+#input-btn {
+    background-color:#5f9341;
+    color:white;
+    border:none;
+}
+
+#tab-btn {
+    background-color:#5f9341;
+    color:white;
+    border:none;
 }
 
 ul {
